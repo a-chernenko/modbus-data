@@ -17,7 +17,7 @@
 
 #include "modbus_data.hpp"
 
-int main([[maybe_unused]] int argc, [[maybe_unused]] char *argv[]) try {
+int main(int argc, char *argv[]) try {
   std::cout << "Comming soon...\n";
 
 /////// DRAFT ///////
